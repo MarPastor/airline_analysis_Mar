@@ -80,7 +80,7 @@ airline_analysis_mar
 ## 📝 Instructions for use
 
 1. Clone the repository.
-2. In the folder `notebook` run the main file using Visual Studio Code: `airline_analysis_mar`.
+2. In the folder [notebook](https://github.com/MarPastor/airline_analysis_Mar/tree/main/notebook) run the main file using Visual Studio Code: `airline_analysis_mar`.
 3. Follow the instructions in the file to run the code and to extract the data from the CSV files, perform the EDA and create a new CSV files with the final data.
 
 ---
@@ -99,7 +99,7 @@ Completed
 
 ## 📷 Screenshots
 
-In the folder `screenshots` the graphs showing the results of the database queries are located here.
+In the folder [screenshots](https://github.com/MarPastor/airline_analysis_Mar/tree/main/screenshots) the graphs showing the results of the database queries are located here.
 
 - Example of a barplot:
 
